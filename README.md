@@ -1,1 +1,1 @@
-# Alexandr
+# Alexandr - учебный проект
